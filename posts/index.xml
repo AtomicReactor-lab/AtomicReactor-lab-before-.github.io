@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Mon, 25 Oct 2021 18:41:09 +0800</lastBuildDate><atom:link href="https://www.atomicreactor.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Oct 2021 19:18:42 +0800</lastBuildDate><atom:link href="https://www.atomicreactor.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deecamp2021</title>
+      <link>https://www.atomicreactor.top/posts/deecamp2021/</link>
+      <pubDate>Tue, 26 Oct 2021 19:18:42 +0800</pubDate>
+      
+      <guid>https://www.atomicreactor.top/posts/deecamp2021/</guid>
+      <description>deecamp </description>
+    </item>
+    
     <item>
       <title>Demo</title>
       <link>https://www.atomicreactor.top/posts/demo/</link>
