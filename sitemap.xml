@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.atomicreactor.top/</loc>
+    <loc>https://www.atomicreactor.top/</loc>
     <lastmod>2021-10-25T18:41:09+08:00</lastmod>
   </url><url>
-    <loc>www.atomicreactor.top/posts/demo/</loc>
+    <loc>https://www.atomicreactor.top/posts/demo/</loc>
     <lastmod>2021-10-25T18:41:09+08:00</lastmod>
   </url><url>
-    <loc>www.atomicreactor.top/posts/</loc>
+    <loc>https://www.atomicreactor.top/posts/</loc>
     <lastmod>2021-10-25T18:41:09+08:00</lastmod>
   </url><url>
-    <loc>www.atomicreactor.top/categories/</loc>
+    <loc>https://www.atomicreactor.top/categories/</loc>
   </url><url>
-    <loc>www.atomicreactor.top/tags/</loc>
+    <loc>https://www.atomicreactor.top/tags/</loc>
   </url>
 </urlset>

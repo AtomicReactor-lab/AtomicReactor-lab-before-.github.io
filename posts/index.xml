@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AtomicReactorLab</title>
-    <link>www.atomicreactor.top/posts/</link>
+    <link>https://www.atomicreactor.top/posts/</link>
     <description>Recent content in Posts on AtomicReactorLab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Mon, 25 Oct 2021 18:41:09 +0800</lastBuildDate><atom:link href="www.atomicreactor.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Oct 2021 18:41:09 +0800</lastBuildDate><atom:link href="https://www.atomicreactor.top/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo</title>
-      <link>www.atomicreactor.top/posts/demo/</link>
+      <link>https://www.atomicreactor.top/posts/demo/</link>
       <pubDate>Mon, 25 Oct 2021 18:41:09 +0800</pubDate>
       
-      <guid>www.atomicreactor.top/posts/demo/</guid>
+      <guid>https://www.atomicreactor.top/posts/demo/</guid>
       <description>hello! </description>
     </item>
     
